@@ -25,7 +25,7 @@ url                      : "https://alswooy.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/yoominwoo.jpg"
-logo                     : "/assets/images/yoominwoo.jpg"
+logo                     : "/assets/images/computer-icon.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -39,7 +39,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark"
+    colorscheme          : # "light" (default), "dark"
   utterances:
     theme                : "github-dark"
     issue_term           : # "pathname" (default)
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "MINWOO"
-  avatar           : "/assets/images/yoominwoo.jpg"
+  avatar           : "/assets/images/yoominwoo.jpg" #프로필사진
   bio              : "신입 백엔드 개발자"
   location         : "Korean"
   email            : "jjang990312@naver.com"
